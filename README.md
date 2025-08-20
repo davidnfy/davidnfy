@@ -9,7 +9,6 @@
 ✨ Halo! Saya **David Nafisy**  
 🎓 Siswa **SMK Negeri 5 Malang** — Jurusan **Rekayasa Perangkat Lunak (RPL)**  
 🚀 Semangat mempelajari **pemrograman, pengembangan web, dan teknologi open-source**  
-🐧 Tertarik dengan dunia **Linux** dan tools developer modern  
 💡 Prinsip saya: *"Belajar, Berkreasi, Berbagi"*  
 🤝 Terbuka untuk **kolaborasi project, diskusi teknologi, atau belajar bareng**  
 
