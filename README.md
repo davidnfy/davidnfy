@@ -15,16 +15,12 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,python,java,mysql,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,python,mysql,git,github,vscode,figma" />
 </p>
 
 ---
 
 ## 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidnfy&theme=github_dark" width="100%" />
-</p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davidnfy&theme=github_dark" height="150"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davidnfy&theme=github_dark" height="150"/>
@@ -34,13 +30,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidnfy&theme=github_dark" height="150"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davidnfy&theme=github_dark&utcOffset=7" height="150"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-🔹 [**Pengatur Keuangan**](#) – Aplikasi web untuk mencatat pemasukan & pengeluaran  
-🔹 [**Mini Game JS**](#) – Game interaktif berbasis JavaScript  
-🔹 [**Node.js API**](#) – REST API sederhana dengan autentikasi  
 
 ---
 
