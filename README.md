@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:112d4e&height=200&section=header&text=David%20Nafisy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20 />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:112d4e&height=200&section=header&text=David%20Nafisy&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" />
 </p>
 
 ---
@@ -22,6 +22,10 @@
 
 ## 📊 GitHub Insights
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidnfy&theme=github_dark" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davidnfy&theme=github_dark" height="150"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davidnfy&theme=github_dark" height="150"/>
 </p>
@@ -33,6 +37,12 @@
 
 ---
 
+## 🚀 Featured Projects
+🔹 [**Pengatur Keuangan**](#) – Aplikasi web untuk mencatat pemasukan & pengeluaran  
+🔹 [**Mini Game JS**](#) – Game interaktif berbasis JavaScript  
+🔹 [**Node.js API**](#) – REST API sederhana dengan autentikasi  
+
+---
 
 ## 🌐 Connect With Me
 <p align="center">
