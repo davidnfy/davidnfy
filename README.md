@@ -22,10 +22,6 @@
 
 ## 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidnfy&theme=github_dark" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davidnfy&theme=github_dark" height="150"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davidnfy&theme=github_dark" height="150"/>
 </p>
