@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:112d4e&height=200&section=header&text=David%20Nafisy&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,100:003366&height=200&section=header&text=David%20Nafisy&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" />
 </p>
 
 ---
@@ -44,5 +44,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:112d4e&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,100:003366&height=120&section=footer" />
 </p>
