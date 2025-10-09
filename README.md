@@ -1,62 +1,76 @@
-<!-- GitHub Profile README -->
-<!-- Simple + Pixel Animation Glow -->
+<!-- Banner -->
+<h1 align="center">Hi there 👋, I'm David Nafisy</h1>
+<h3 align="center">💻 Front-End Developer | Creative Web Designer | Future Full-Stack Dev 🚀</h3>
 
-<div align="center">
+---
 
-<h1>👋 Halo, aku <span style="color:#6BCB77;">David Nafisy</span>!</h1>
+## 🧠 About Me:
+- 💡 I have expertise in **front-end web development** using **React**, **TypeScript**, and **PHP (CodeIgniter)**.  
+- ⚡ Skilled at building responsive, modern websites with **Bootstrap** and **TailwindCSS**.  
+- 🧩 I enjoy combining **design and logic**, using tools like **Figma** and **Canva** for UI/UX concepts.  
+- 🌱 Currently exploring backend development to become a **Full Stack Developer**.  
+- 🎯 Goal: To build impactful, elegant, and efficient web applications.  
 
-<p>
-💻 Full Stack Dev in the making | 🎮 Game Builder | 🎨 Crafting cool stuff with code & pixels  
+---
+
+## 🌐 Connect With Me:
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-davidnafisy%40example.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<!-- Pixel animation -->
-<svg width="200" height="40" viewBox="0 0 120 24" xmlns="http://www.w3.org/2000/svg">
-  <rect width="120" height="24" fill="transparent"/>
-  <g transform="translate(4,4)">
-    <rect x="0" y="0" width="8" height="8" rx="1" fill="#FF6B6B">
-      <animate attributeName="fill" values="#FF6B6B;#FFD93D;#6BCB77;#4D96FF;#A66DFF;#FF6B6B" dur="2s" repeatCount="indefinite"/>
-    </rect>
-    <rect x="10" y="0" width="8" height="8" rx="1" fill="#FFD93D">
-      <animate attributeName="fill" values="#FFD93D;#6BCB77;#4D96FF;#A66DFF;#FF6B6B;#FFD93D" dur="2s" begin="0.2s" repeatCount="indefinite"/>
-    </rect>
-    <rect x="20" y="0" width="8" height="8" rx="1" fill="#6BCB77">
-      <animate attributeName="fill" values="#6BCB77;#4D96FF;#A66DFF;#FF6B6B;#FFD93D;#6BCB77" dur="2s" begin="0.4s" repeatCount="indefinite"/>
-    </rect>
-    <rect x="30" y="0" width="8" height="8" rx="1" fill="#4D96FF">
-      <animate attributeName="fill" values="#4D96FF;#A66DFF;#FF6B6B;#FFD93D;#6BCB77;#4D96FF" dur="2s" begin="0.6s" repeatCount="indefinite"/>
-    </rect>
-    <rect x="40" y="0" width="8" height="8" rx="1" fill="#A66DFF">
-      <animate attributeName="fill" values="#A66DFF;#FF6B6B;#FFD93D;#6BCB77;#4D96FF;#A66DFF" dur="2s" begin="0.8s" repeatCount="indefinite"/>
-    </rect>
-  </g>
-</svg>
+---
+
+## 💻 Tech Stack:
+
+<p align="left">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
 
 ---
 
-### 🧠 Tentang Saya
-Aku seorang pelajar yang suka eksplor hal baru di dunia **web development** dan **game design**.  
-Selalu belajar, bereksperimen, dan bikin sesuatu yang bisa bikin orang bilang *“keren juga ya!”* 😆  
+## 📊 GitHub Stats:
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=davidnafisy&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=davidnafisy&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidnafisy&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-### ⚙️ Skillset
-🖋️ **HTML5** • 🎨 **CSS3** • ⚙️ **JavaScript** • 🧩 **PHP**  
-🚀 **React** • 💫 **Tailwind CSS** • 💡 **Bootstrap**  
-🧰 **Postman** • 🎨 **Figma** • ✏️ **Canva** • ☁️ **Vercel**
+## 🧩 Fun Facts:
+- 🎨 I enjoy making creative web UI using Figma and TailwindCSS.  
+- ☕ A day without coffee = a bug in production.  
+- 🧠 “If it works, don’t just stop there — make it cleaner.”  
 
 ---
 
-### 📊 GitHub Stats
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidnfy&show_icons=true&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidnfy&layout=compact&theme=radical&hide_border=true)
+## 📝 Quote of the Day:
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
 ---
 
-### 🌐 Connect with Me
-[💼 LinkedIn](#) • [🌎 Website](#) • [📷 Instagram](#)
+## 📨 Contact:
+📧 Email: **davidnafisy@example.com**  
+🌍 Portfolio: [vercel.app/your-portfolio](https://vercel.app/)  
 
 ---
 
-✨ *"Code with passion, design with purpose."* ✨  
-
-</div>
+✨ *"Design with heart, code with passion."* ✨
