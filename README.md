@@ -15,8 +15,10 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,python,mysql,git,github,vscode,figma,tailwind,bootstrap,postman,vercel,canva,codeigniter" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,python,mysql" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,tailwind,bootstrap,postman,vercel,canva,codeigniter" />
 </p>
+
 
 ---
 
