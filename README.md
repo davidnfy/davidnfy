@@ -1,76 +1,50 @@
 <!-- Banner -->
-<h1 align="center">Hi there 👋, I'm David Nafisy</h1>
-<h3 align="center">💻 Front-End Developer | Creative Web Designer | Future Full-Stack Dev 🚀</h3>
-
----
-
-## 🧠 About Me:
-- 💡 I have expertise in **front-end web development** using **React**, **TypeScript**, and **PHP (CodeIgniter)**.  
-- ⚡ Skilled at building responsive, modern websites with **Bootstrap** and **TailwindCSS**.  
-- 🧩 I enjoy combining **design and logic**, using tools like **Figma** and **Canva** for UI/UX concepts.  
-- 🌱 Currently exploring backend development to become a **Full Stack Developer**.  
-- 🎯 Goal: To build impactful, elegant, and efficient web applications.  
-
----
-
-## 🌐 Connect With Me:
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-davidnafisy%40example.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-## 💻 Tech Stack:
-
-<p align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats:
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=davidnafisy&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=davidnafisy&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,100:003366&height=200&section=header&text=David%20Nafisy&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" />
+</p>
+
+---
+
+## 👋 About Me
+- 🏫 Siswa **SMK Negeri 5 Malang** — **Rekayasa Perangkat Lunak (RPL)**
+- 💡 Passion di **web dev**, **game dev**, & **open-source**
+- 📖 Prinsip: *"Belajar, Berkarya, Berbagi"*
+- 🤝 Terbuka untuk **kolaborasi project, diskusi teknologi, atau belajar bareng**
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,python,mysql,git,github,vscode,figma" />
+</p>
+
+---
+
+## 📊 GitHub Insights
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davidnfy&theme=github_dark" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davidnfy&theme=github_dark" height="150"/>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidnafisy&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidnfy&theme=github_dark" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davidnfy&theme=github_dark&utcOffset=7" height="150"/>
 </p>
 
 ---
 
-## 🧩 Fun Facts:
-- 🎨 I enjoy making creative web UI using Figma and TailwindCSS.  
-- ☕ A day without coffee = a bug in production.  
-- 🧠 “If it works, don’t just stop there — make it cleaner.”  
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://davidnfy.vercel.app/"><img src="https://img.shields.io/badge/-Website-0d47a1?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://github.com/davidnfy"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/davidnafisy"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:davidnafisy@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/davidnafisy"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
 ---
 
-## 📝 Quote of the Day:
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
-
----
-
-## 📨 Contact:
-📧 Email: **davidnafisy@example.com**  
-🌍 Portfolio: [vercel.app/your-portfolio](https://vercel.app/)  
-
----
-
-✨ *"Design with heart, code with passion."* ✨
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,100:003366&height=120&section=footer" />
+</p>
