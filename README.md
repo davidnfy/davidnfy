@@ -6,10 +6,10 @@
 ---
 
 ## 👋 About Me
-- 🏫 Siswa **SMK Negeri 5 Malang** — **Rekayasa Perangkat Lunak (RPL)**
-- 💡 Passion di **web dev**, **game dev**, & **open-source**
-- 📖 Prinsip: *"Belajar, Berkarya, Berbagi"*
-- 🤝 Terbuka untuk **kolaborasi project, diskusi teknologi, atau belajar bareng**
+- 🏫 Student of **SMK Negeri 5 Malang** — **Software Engineering (RPL)**
+- 💡 Passionate about **web dev**, **game dev**, & **open-source**
+- 📖 Principle: *"Fact, Problem, Solution"*
+- 🤝 Open to **project collaboration, tech discussions, or learning together**
 
 ---
 
@@ -26,11 +26,6 @@
 ---
 
 ## 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davidnfy&theme=github_dark" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davidnfy&theme=github_dark" height="150"/>
-</p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidnfy&theme=github_dark" height="150"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davidnfy&theme=github_dark&utcOffset=7" height="150"/>
