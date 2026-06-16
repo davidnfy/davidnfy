@@ -17,9 +17,19 @@ Principle: *"Fact, Problem, Solution"* — open to collaboration & learning toge
 
 **Languages and Tools:**
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,php,react,vue,nextjs,html,css,tailwind,bootstrap,nodejs,laravel,mysql,postgresql,sqlite,git,vscode,figma,postman,vite&theme=dark&perline=15" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,react,vue,nextjs,html,css,tailwind,bootstrap,nodejs,laravel,mysql,postgresql,sqlite,git,vscode,figma,postman,vite&theme=dark&perline=15" width="480" />
 
 <br/><br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="80" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit.png" width="80" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Hamster.png" width="80" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="80" />
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
