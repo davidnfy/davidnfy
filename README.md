@@ -10,39 +10,16 @@
 
 <br/>
 
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,php&theme=dark" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs,html,css,tailwind,bootstrap&theme=dark" />
-
-**Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql,postgresql,sqlite&theme=dark" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,vite&theme=dark" />
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="60" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="60" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="60" />
-</div>
+I'm a student at **SMK Negeri 5 Malang** passionate about web dev, game dev, and open-source. <br/>
+Principle: *"Fact, Problem, Solution"* — open to collaboration & learning together.
 
 <br/>
+
+**Languages and Tools:**
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,react,vue,nextjs,html,css,tailwind,bootstrap,nodejs,laravel,mysql,postgresql,sqlite,git,vscode,figma,postman,vite&theme=dark&perline=15" />
+
+<br/><br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
